@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: octopress | My Octopress Blog]]></title>
+  <title><![CDATA[Category: octopress | 玉兔博客]]></title>
   <link href="http://yutugirl.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://yutugirl.github.io/"/>
-  <updated>2015-06-19T15:34:34+08:00</updated>
+  <updated>2015-06-20T00:37:33+08:00</updated>
   <id>http://yutugirl.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[YuTu]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
