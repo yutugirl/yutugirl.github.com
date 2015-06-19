@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://yutugirl.github.io/atom.xml" rel="self"/>
   <link href="http://yutugirl.github.io/"/>
-  <updated>2015-06-19T11:24:32+08:00</updated>
+  <updated>2015-06-19T14:53:27+08:00</updated>
   <id>http://yutugirl.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zai Githubshang Da Jian Octopressbo Ke]]></title>
+    <link href="http://yutugirl.github.io/blog/2015/06/19/zai-githubshang-da-jian-octopressbo-ke/"/>
+    <updated>2015-06-19T00:00:00+08:00</updated>
+    <id>http://yutugirl.github.io/blog/2015/06/19/zai-githubshang-da-jian-octopressbo-ke</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
