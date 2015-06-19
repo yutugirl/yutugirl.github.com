@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: github | 玉兔博客]]></title>
+  <title><![CDATA[分类: github | 玉兔博客]]></title>
   <link href="http://yutugirl.github.io/blog/categories/github/atom.xml" rel="self"/>
   <link href="http://yutugirl.github.io/"/>
-  <updated>2015-06-20T00:45:53+08:00</updated>
+  <updated>2015-06-20T00:52:58+08:00</updated>
   <id>http://yutugirl.github.io/</id>
   <author>
     <name><![CDATA[YuTu]]></name>
