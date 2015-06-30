@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在github上搭建octopress博客"
+title: "第一篇文章"
 date: 2015-06-19 14:28:31 +0800
 comments: true
 categories: 
