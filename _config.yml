@@ -58,6 +58,8 @@ default_asides: [asides/category_list.html, asides/recent_posts.html, asides/git
 # blog_index_asides:
 # post_asides:
 # page_asides:
+custom/asides/recent_comments.html
+
 
 # ----------------------- #
 #   3rd Party Settings    #
@@ -88,7 +90,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: "yutugirl"
+disqus_short_name: yutugirl
 disqus_show_comment_count: true
 
 # Google Analytics
@@ -97,3 +99,12 @@ google_analytics_tracking_id:
 # Facebook Like
 facebook_like: false
 
+# Duoshuo Comments
+duoshuo_comments: true
+duoshao_short_name: yutugirl
+duoshuo_asides_num: 10      # 侧边栏评论显示条目数
+duoshuo_asides_avatars: 0   # 侧边栏评论是否显示头像
+duoshuo_asides_time: 0      # 侧边栏评论是否显示时间
+duoshuo_asides_title: 0     # 侧边栏评论是否显示标题
+duoshuo_asides_admin: 0     # 侧边栏评论是否显示作者评论
+duoshuo_asides_length: 18   # 侧边栏评论截取的长度
