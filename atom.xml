@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[YuTu]]></title>
+  <title><![CDATA[yutublog]]></title>
   <link href="http://yutugirl.github.io/atom.xml" rel="self"/>
   <link href="http://yutugirl.github.io/"/>
-  <updated>2015-06-30T22:29:14+08:00</updated>
+  <updated>2015-07-01T11:33:17+08:00</updated>
   <id>http://yutugirl.github.io/</id>
   <author>
-    <name><![CDATA[YuTu]]></name>
+    <name><![CDATA[zhizhi]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
